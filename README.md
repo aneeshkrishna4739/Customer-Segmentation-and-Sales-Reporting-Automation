@@ -85,6 +85,6 @@ The output is an Excel file with four separate worksheets:
 ## 📞 Contact
 
 Created by **Aneesh Krishna**  
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com) or reach out via email for collaboration!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aneesh-krishna/) or reach out via email for collaboration!
 
 ---
